@@ -1,0 +1,18 @@
+C:\Users\Nick van Oijen\Source\Repos\Learning C#\WinForms Calculator\WinForms Calculator\bin\Debug\WinForms Calculator.exe.config
+C:\Users\Nick van Oijen\Source\Repos\Learning C#\WinForms Calculator\WinForms Calculator\bin\Debug\WinForms Calculator.exe
+C:\Users\Nick van Oijen\Source\Repos\Learning C#\WinForms Calculator\WinForms Calculator\bin\Debug\WinForms Calculator.pdb
+C:\Users\Nick van Oijen\Source\Repos\Learning C#\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Nick van Oijen\Source\Repos\Learning C#\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms_Calculator.Form1.resources
+C:\Users\Nick van Oijen\Source\Repos\Learning C#\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms_Calculator.Properties.Resources.resources
+C:\Users\Nick van Oijen\Source\Repos\Learning C#\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.csproj.GenerateResource.Cache
+C:\Users\Nick van Oijen\Source\Repos\Learning C#\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.exe
+C:\Users\Nick van Oijen\Source\Repos\Learning C#\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.pdb
+C:\Users\Nick van Oijen\Source\Repos\WinForms Calculator\WinForms Calculator\bin\Debug\WinForms Calculator.exe.config
+C:\Users\Nick van Oijen\Source\Repos\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.exe
+C:\Users\Nick van Oijen\Source\Repos\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.pdb
+C:\Users\Nick van Oijen\Source\Repos\WinForms Calculator\WinForms Calculator\bin\Debug\WinForms Calculator.exe
+C:\Users\Nick van Oijen\Source\Repos\WinForms Calculator\WinForms Calculator\bin\Debug\WinForms Calculator.pdb
+C:\Users\Nick van Oijen\Source\Repos\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Nick van Oijen\Source\Repos\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms_Calculator.Form1.resources
+C:\Users\Nick van Oijen\Source\Repos\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms_Calculator.Properties.Resources.resources
+C:\Users\Nick van Oijen\Source\Repos\WinForms Calculator\WinForms Calculator\obj\Debug\WinForms Calculator.csproj.GenerateResource.Cache
